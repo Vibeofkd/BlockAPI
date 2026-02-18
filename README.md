@@ -35,7 +35,7 @@ blockapi/
 ### Installation
 
 ```bash
-git clone https://github.com/Vibeofkd/blockAPI.git
+git clone https://github.com/Vibeofkd/BlockAPI.git
 cd apinode
 npm install
 ```
@@ -44,7 +44,7 @@ Environment
 Create .env file:
 ```
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/apinode
+MONGODB_URI=mongodb://localhost:27017/BlockAPI
 NODE_ENV=development
 ```
 Run
@@ -74,9 +74,9 @@ All changes must include tests and maintain execution consistency.
 
 🗺 Roadmap
 
-Phase 1: Core orchestration node
-Phase 2: Multi-service workflows
-Phase 3: Distributed processing & scaling
+- Phase 1: Core orchestration node
+- Phase 2: Multi-service workflows
+- Phase 3: Distributed processing & scaling
 
 ⸻
 
