@@ -1,9 +1,9 @@
 # BlockAPI  Unified Blockchain Data Access Layer 🚀
 
 🚀 Core Feature — BlockAPI
--Unified blockchain data access layer that abstracts ledger complexity into clean, reliable APIs.
--Normalized access to accounts, payments, assets, and transactions
--High-performance read APIs optimized for indexers and applications
+- Unified blockchain data access layer that abstracts ledger complexity into clean, reliable APIs.
+- Normalized access to accounts, payments, assets, and transactions
+- High-performance read APIs optimized for indexers and applications
 
 ## 🏗 Architecture Overview
 
